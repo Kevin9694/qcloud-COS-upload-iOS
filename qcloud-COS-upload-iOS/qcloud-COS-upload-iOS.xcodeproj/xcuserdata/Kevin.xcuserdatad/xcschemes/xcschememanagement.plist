@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>qcloud-COS-upload-iOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4509403CCB1777882EEB3056</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>45094C0D7631B4C1324E3EAE</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>45094D21D30DD542B4C8101C</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>
